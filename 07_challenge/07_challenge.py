@@ -17,7 +17,7 @@ def fizzbuzz(max_num):
     three_mul = 'fizz'
     five_mul = 'buzz'
     num1 = 3
-    num2 = 5 
+    num2 = 5
 
     # Google for 'range in python' to see what it does
     for i in range(1,max_num):
@@ -31,4 +31,4 @@ def fizzbuzz(max_num):
 
 #----START OF SCRIPT
 if __name__=='__main__':
-    fizzbuzz(99)
+    fizzbuzz(100)
